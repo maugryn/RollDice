@@ -1,0 +1,2 @@
+# RollDice
+Exercício de Python.
